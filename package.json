@@ -18,6 +18,8 @@
     "bugs": {
       "url": "https://github.com/joetechbob/bal-eth/issues"
     },
-    "homepage": "https://github.com/joetechbob/bal-eth#readme"
+    "homepage": "https://github.com/joetechbob/bal-eth#readme",
+    "dependencies": {
+        "web3": "0.20.0"
+    }
   }
-  
